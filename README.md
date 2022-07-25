@@ -1,0 +1,1 @@
+A car brand table using object destructuring syntax
